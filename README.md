@@ -2,7 +2,15 @@
 <div align="center">
   <h1>Welcome to SeongYun's Github</h1>
 </div>
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongyun4359)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyun4359)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -59,8 +67,4 @@
       src="https://img.shields.io/badge/1112csy@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
 </div>
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongyun4359)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyun4359)](https://github.com/anuraghazra/github-readme-stats)
-</div>
