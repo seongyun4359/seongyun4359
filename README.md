@@ -59,7 +59,8 @@
       src="https://img.shields.io/badge/1112csy@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
 </div>
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongyun4359)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyun4359)](https://github.com/anuraghazra/github-readme-stats)
+</div>
