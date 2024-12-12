@@ -2,7 +2,7 @@
   <h1>⭐Welcome to SeongYun's Github⭐</h1>
 </div>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 10px;"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">   
     <img src="https://github-readme-stats.vercel.app/api?username=seongyun4359" alt="SeongYun's GitHub stats"/>  
   </a>  
