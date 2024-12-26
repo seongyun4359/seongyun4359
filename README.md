@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⭐Welcome to SeongYun's Github⭐</h1>
-</div>
+</div> 
   
 <div align="center" style="display: flex; flex-direction: column; gap: 10px;"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">   
