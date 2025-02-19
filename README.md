@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726"/>
 </div>
-
+<!--
 <h3 align="center">💻 Experiences 💻</h3>
 <div align="center" style="display: inline-block; text-align: left; padding-top:2px;">
   <strong>광운대학교 정보융합학부 전공 동아리 CHIC 임원진</strong> (2023.07 ~ 2024.06) <br>
@@ -65,7 +65,7 @@
   <strong>2025 HCI KOREA “사진 분석 여행 추천 서비스” 포스터 발표</strong> (2025.02.10 ~ 2025.02.12) <br>
   <strong>광운대학교디지털경험분석연구실 IDEA Lab 학부연구생</strong> (2024.12.28 ~ ing)
 </div>
-
+-->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center" style="display: flex; gap: 10px;">
   <a href="https://velog.io/@lucha__01/">
