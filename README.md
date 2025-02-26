@@ -1,7 +1,7 @@
 <div style="width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" style="width: 100%; margin: 0;" />
 </div>
-  
+   
 <div align="center">
   <h1>⭐Welcome to SeongYun's Github⭐</h1>
 </div> 
