@@ -5,9 +5,21 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=seongyun4359&show_icons=true&theme=default" alt="SeongYun's GitHub stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=seongyun4359&show_icons=true&theme=default"
+      alt="SeongYun's GitHub stats"
+    />
   </a>
-  <br>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seongyun4359&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/seongyun4359"
+      height="195"
+      alt="GitAnimals"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongyun4359&count_bg=%238C8C8C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=SeongYun&edge_flat=false"/>
   </a>
@@ -65,5 +77,7 @@
 8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** (2024.12 ~ recent)
 
 
+  
+</div>
 <!-- 푸터 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="100%" />
