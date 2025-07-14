@@ -73,7 +73,7 @@
 4. **[프로젝트 캠프: IT 서비스 기획](https://sniperfactory.com/course/project-camp-it-service-planner) 1기** (2023.11 ~ 2024.01)  
 5. **대학생 연합 프로젝트 동아리 [UMC](https://umc.makeus.in/introduction) 7th Web 파트 수료** (2024.09 ~ 2025.02)  
 6. **웅진씽크빅 주최 [프론트엔드 프로젝트 캠프](https://sniperfactory.com/course/project-camp-nextjs4):Next.js 4기** (2024.11 ~ 2025.01)
-7. **[디랩 코딩 학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** (2023.07 ~ recent)  
+7. **[디랩코딩학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** (2023.07 ~ recent)  
 8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** (2024.12 ~ recent)
 
 
