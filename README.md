@@ -10,13 +10,10 @@
       alt="SeongYun's GitHub stats"
     />
   </a>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seongyun4359&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/seongyun4359"
-      height="195"
-      alt="GitAnimals"
-    />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seongyun4359/seongyun4359/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Profile Contributions" />
 </p>
 
 <p align="center">
@@ -25,11 +22,9 @@
   </a>
 </p>
 
-
-##  Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -41,8 +36,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 </p>
 
-
-##  Studying
+## 📚 Studying
 
 <p align="center">
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
@@ -51,8 +45,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 </p>
 
-
-##  Tools
+## ⚙️ Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -65,19 +58,16 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726"/>
 </p>
 
-##  Experiences
+## 💼 Experiences
 
 1. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 임원진** (2023.07 ~ 2024.06)  
 2. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 학회장** (2024.07 ~ 2025.07)  
 3. **광운대학교 소프트웨어 서포터즈 [소원](https://www.instagram.com/kw_sowon/)** (2024.03 ~ 2024.12)  
 4. **[프로젝트 캠프: IT 서비스 기획](https://sniperfactory.com/course/project-camp-it-service-planner) 1기** (2023.11 ~ 2024.01)  
 5. **대학생 연합 프로젝트 동아리 [UMC](https://umc.makeus.in/introduction) 7th Web 파트 수료** (2024.09 ~ 2025.02)  
-6. **웅진씽크빅 주최 [프론트엔드 프로젝트 캠프](https://sniperfactory.com/course/project-camp-nextjs4):Next.js 4기** (2024.11 ~ 2025.01)
-7. **[디랩코딩학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** (2023.07 ~ recent)  
-8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** (2024.12 ~ recent)
+6. **웅진씽크빅 주최 [프론트엔드 프로젝트 캠프](https://sniperfactory.com/course/project-camp-nextjs4):Next.js 4기** (2024.11 ~ 2025.01)  
+7. **[디랩코딩학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** (2023.07 ~ present)  
+8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** (2024.12 ~ present)
 
-
-  
-</div>
 <!-- 푸터 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="100%" />
