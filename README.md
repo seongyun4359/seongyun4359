@@ -12,16 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seongyun4359/seongyun4359/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Profile Contributions" />
-</p>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongyun4359&count_bg=%238C8C8C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=SeongYun&edge_flat=false"/>
-  </a>
-</p>
-
 ## 🛠 Tech Stack
 
 <p align="center">
