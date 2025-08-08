@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -47,14 +47,14 @@
 
 ## 💼 Experiences
 
-1. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 임원진** (2023.07 ~ 2024.06)  
-2. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 학회장** (2024.07 ~ 2025.07)  
-3. **광운대학교 소프트웨어 서포터즈 [소원](https://www.instagram.com/kw_sowon/)** (2024.03 ~ 2024.12)  
-4. **[프로젝트 캠프: IT 서비스 기획](https://sniperfactory.com/course/project-camp-it-service-planner) 1기** (2023.11 ~ 2024.01)  
-5. **대학생 연합 프로젝트 동아리 [UMC](https://umc.makeus.in/introduction) 7th Web 파트 수료** (2024.09 ~ 2025.02)  
-6. **웅진씽크빅 주최 [프론트엔드 프로젝트 캠프](https://sniperfactory.com/course/project-camp-nextjs4):Next.js 4기** (2024.11 ~ 2025.01)  
-7. **[디랩코딩학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** (2023.07 ~ present)  
-8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** (2024.12 ~ present)
+1. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 임원진** <code>2023.07 ~ 2024.06</code>
+2. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 학회장** <code>2024.07 ~ 2025.07</code>
+3. **광운대학교 소프트웨어 서포터즈 [소원](https://www.instagram.com/kw_sowon/)** <code>2024.03 ~ 2024.12</code>  
+4. **[프로젝트 캠프: IT 서비스 기획](https://sniperfactory.com/course/project-camp-it-service-planner) 1기** <code>2023.11 ~ 2024.01</code>  
+5. **대학생 연합 프로젝트 동아리 [UMC](https://umc.makeus.in/introduction) 7th Web 파트 수료** <code>2024.09 ~ 2025.02</code>  
+6. **웅진씽크빅 주최 [프론트엔드 프로젝트 캠프](https://sniperfactory.com/course/project-camp-nextjs4):Next.js 4기** <code>2024.11 ~ 2025.01</code>  
+7. **[디랩코딩학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** <code>2023.07 ~ present</code>  
+8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** <code>2024.12 ~ present</code>
 
 <!-- 푸터 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="100%" />
