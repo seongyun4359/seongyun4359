@@ -56,10 +56,15 @@
 7. **[디랩코딩학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** <code>2023.07 ~ present</code>  
 8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** <code>2024.12 ~ present</code>
 
+
 ## 🏅 Awards  
 
-1. **[2025년 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회](https://dcs.or.kr/) 동상 수상** <code>2025.07.05</code>  
-2. **[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing) 최우수상 수상** <code>2025.08.25</code>  
+1. **[2025년 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회](https://dcs.or.kr/) 동상 수상** <code>2025.07</code>  
+2. **[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing) 최우수상 수상** <code>2025.08</code>
+3.  **[제9회 산학연계 SW프로젝트 전시회]() 장려상 수상** <code>2025.11</code>
+4. **[2025년도 광운대학교 졸업작품전시회]() 장려상 수상** <code>2025.11</code>
+
+
 
 <!-- 푸터 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="100%" />
