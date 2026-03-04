@@ -46,7 +46,7 @@
 5. **대학생 연합 프로젝트 동아리 [UMC](https://umc.makeus.in/introduction) 7th Web 파트 수료** <code>2024.09 ~ 2025.02</code>  
 6. **웅진씽크빅 주최 [프론트엔드 프로젝트 캠프](https://sniperfactory.com/course/project-camp-nextjs4):Next.js 4기** <code>2024.11 ~ 2025.01</code>  
 7. **[디랩코딩학원](https://www.daddyslab.com/dlab_jeongja) 정자점 튜터** <code>2023.07 ~ 2025.11</code>  
-8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** <code>2024.12 ~ present</code>
+8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** <code>2024.12 ~ 2025.12</code>
 
 
 ## 🏅 Awards  
