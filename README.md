@@ -1,10 +1,20 @@
 <!-- 헤더 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width="100%" />
 
-<h1 align="center">⭐ Welcome to SeongYun's GitHub ⭐</h1>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <h1>SeongYun's GitHub </h1>
+      </td>
+      <td valign="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyun4359&layout=compact&bg_color=fff&title_color=303030&text_color=505050&icon_color=e96443&hide_border=true" height="180">
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-## 🛠 Tech Stacks
+## Tech Stacks
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -15,7 +25,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 </p>
 
-## 📚 Studying
+##  Studying
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -28,7 +38,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
-## ⚙️ Tools
+##  Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -37,7 +47,7 @@
   <img src="https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-## 💼 Experiences
+##  Experiences
 
 1. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 임원진** <code>2023.07 ~ 2024.06</code>
 2. **광운대학교 정보융합학부 전공 동아리 [CHIC](https://github.com/kw-chi-community) 학회장** <code>2024.07 ~ 2025.07</code>
@@ -49,7 +59,7 @@
 8. **광운대학교 디지털경험분석연구실 [IDEA Lab](https://kwidea.com/) 학부연구생** <code>2024.12 ~ 2025.12</code>
 
 
-## 🏅 Awards  
+##  Awards  
 
 1. **[2025년 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회](https://dcs.or.kr/) 동상 수상** <code>2025.07</code>  
 2. **[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing) 최우수상 수상** <code>2025.08</code>
