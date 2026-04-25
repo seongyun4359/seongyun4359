@@ -1,5 +1,5 @@
 <!-- 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width="100%" /> 
 
 <div align="center">
   <table border="0">
