@@ -8,7 +8,6 @@
         <h1>SeongYun's GitHub </h1>
       </td>
       <td valign="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyun4359&layout=compact&bg_color=fff&title_color=303030&text_color=505050&icon_color=e96443&hide_border=true" height="180">
       </td>
     </tr>
   </table>
